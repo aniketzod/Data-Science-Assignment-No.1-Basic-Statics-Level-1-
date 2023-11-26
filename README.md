@@ -1,4 +1,4 @@
-# Data-Science-Assignment-No.1-Basic-Statics-Level-1
+# Data-Science-Assignment-No.1-Basic-Statistics-Level-1
 Q1) Identify the Data type for the Following:
 Activity	Data Type
 Number of beatings from Wife	
